@@ -1,0 +1,28 @@
+@import "variables";
+
+.task-table {
+  border: 2px solid lightgray;
+  border-collapse: collapse;
+}
+
+.task-table th {
+  color: $primary;
+}
+
+.task-table th {
+  border-bottom: 3px solid lightgray;
+}
+
+.task-table td {
+  padding: 0.5rem 1rem;
+  border-bottom: 2px solid lightgray;
+}
+
+.task-table-data td {
+  min-width: 128px;
+  white-space: nowrap;
+}
+
+.task-table-data:hover {
+  background: rgb(252, 250, 225);
+}

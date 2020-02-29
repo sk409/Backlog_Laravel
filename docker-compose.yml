@@ -1,0 +1,11 @@
+version: "3.3"
+services:
+  database:
+    build: database
+  server:
+    build: server
+    ports:
+      - 6565:8000
+    tty: true
+    volumes:
+      - ./server/app:/app

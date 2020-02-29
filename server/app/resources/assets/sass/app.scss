@@ -1,0 +1,48 @@
+// Fonts
+// @import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+// @import "~bootstrap-sass/assets/stylesheets/bootstrap";
+
+#app {
+    background: $app-bg;
+}
+
+.bg-app {
+    background: $app-bg;
+}
+
+.color-inherit {
+    color: inherit;
+}
+
+.h-45 {
+    height: 45%;
+}
+
+.h-50 {
+    height: 50%;
+}
+
+.h-100 {
+    height: 100%;
+}
+
+.w-45 {
+    width: 45%;
+}
+
+.w-50 {
+    width: 50%;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+[v-cloak] {
+    display: none;
+}

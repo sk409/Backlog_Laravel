@@ -1,0 +1,13 @@
+{
+    "/js/tasks.create.js": "/js/tasks.create.js",
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/css/dashboard.css": "/css/dashboard.css",
+    "/css/project.show.css": "/css/project.show.css",
+    "/css/tasks.index.css": "/css/tasks.index.css",
+    "/js/project.show.js": "/js/project.show.js",
+    "/js/dashboard.js": "/js/dashboard.js",
+    "/js/tasks.index.js": "/js/tasks.index.js",
+    "/js/register.js": "/js/register.js",
+    "/js/login.js": "/js/login.js"
+}
